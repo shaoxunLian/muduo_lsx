@@ -1,0 +1,87 @@
+[
+{
+  "directory": "/home/lian/MYMUDUOnew/MYMUDUO/build",
+  "command": "/usr/bin/g++  -DLSX_muduo_EXPORTS -I/home/lian/MYMUDUOnew/MYMUDUO/include   -g -std=c++11 -g -fPIC   -o CMakeFiles/LSX_muduo.dir/src/Acceptor.o -c /home/lian/MYMUDUOnew/MYMUDUO/src/Acceptor.cc",
+  "file": "/home/lian/MYMUDUOnew/MYMUDUO/src/Acceptor.cc"
+},
+{
+  "directory": "/home/lian/MYMUDUOnew/MYMUDUO/build",
+  "command": "/usr/bin/g++  -DLSX_muduo_EXPORTS -I/home/lian/MYMUDUOnew/MYMUDUO/include   -g -std=c++11 -g -fPIC   -o CMakeFiles/LSX_muduo.dir/src/Buffer.o -c /home/lian/MYMUDUOnew/MYMUDUO/src/Buffer.cc",
+  "file": "/home/lian/MYMUDUOnew/MYMUDUO/src/Buffer.cc"
+},
+{
+  "directory": "/home/lian/MYMUDUOnew/MYMUDUO/build",
+  "command": "/usr/bin/g++  -DLSX_muduo_EXPORTS -I/home/lian/MYMUDUOnew/MYMUDUO/include   -g -std=c++11 -g -fPIC   -o CMakeFiles/LSX_muduo.dir/src/Channel.o -c /home/lian/MYMUDUOnew/MYMUDUO/src/Channel.cc",
+  "file": "/home/lian/MYMUDUOnew/MYMUDUO/src/Channel.cc"
+},
+{
+  "directory": "/home/lian/MYMUDUOnew/MYMUDUO/build",
+  "command": "/usr/bin/g++  -DLSX_muduo_EXPORTS -I/home/lian/MYMUDUOnew/MYMUDUO/include   -g -std=c++11 -g -fPIC   -o CMakeFiles/LSX_muduo.dir/src/CurrentThread.o -c /home/lian/MYMUDUOnew/MYMUDUO/src/CurrentThread.cc",
+  "file": "/home/lian/MYMUDUOnew/MYMUDUO/src/CurrentThread.cc"
+},
+{
+  "directory": "/home/lian/MYMUDUOnew/MYMUDUO/build",
+  "command": "/usr/bin/g++  -DLSX_muduo_EXPORTS -I/home/lian/MYMUDUOnew/MYMUDUO/include   -g -std=c++11 -g -fPIC   -o CMakeFiles/LSX_muduo.dir/src/DefaultPoller.o -c /home/lian/MYMUDUOnew/MYMUDUO/src/DefaultPoller.cc",
+  "file": "/home/lian/MYMUDUOnew/MYMUDUO/src/DefaultPoller.cc"
+},
+{
+  "directory": "/home/lian/MYMUDUOnew/MYMUDUO/build",
+  "command": "/usr/bin/g++  -DLSX_muduo_EXPORTS -I/home/lian/MYMUDUOnew/MYMUDUO/include   -g -std=c++11 -g -fPIC   -o CMakeFiles/LSX_muduo.dir/src/EpollPoller.o -c /home/lian/MYMUDUOnew/MYMUDUO/src/EpollPoller.cc",
+  "file": "/home/lian/MYMUDUOnew/MYMUDUO/src/EpollPoller.cc"
+},
+{
+  "directory": "/home/lian/MYMUDUOnew/MYMUDUO/build",
+  "command": "/usr/bin/g++  -DLSX_muduo_EXPORTS -I/home/lian/MYMUDUOnew/MYMUDUO/include   -g -std=c++11 -g -fPIC   -o CMakeFiles/LSX_muduo.dir/src/EventLoop.o -c /home/lian/MYMUDUOnew/MYMUDUO/src/EventLoop.cc",
+  "file": "/home/lian/MYMUDUOnew/MYMUDUO/src/EventLoop.cc"
+},
+{
+  "directory": "/home/lian/MYMUDUOnew/MYMUDUO/build",
+  "command": "/usr/bin/g++  -DLSX_muduo_EXPORTS -I/home/lian/MYMUDUOnew/MYMUDUO/include   -g -std=c++11 -g -fPIC   -o CMakeFiles/LSX_muduo.dir/src/EventLoopThread.o -c /home/lian/MYMUDUOnew/MYMUDUO/src/EventLoopThread.cc",
+  "file": "/home/lian/MYMUDUOnew/MYMUDUO/src/EventLoopThread.cc"
+},
+{
+  "directory": "/home/lian/MYMUDUOnew/MYMUDUO/build",
+  "command": "/usr/bin/g++  -DLSX_muduo_EXPORTS -I/home/lian/MYMUDUOnew/MYMUDUO/include   -g -std=c++11 -g -fPIC   -o CMakeFiles/LSX_muduo.dir/src/EventLoopThreadPool.o -c /home/lian/MYMUDUOnew/MYMUDUO/src/EventLoopThreadPool.cc",
+  "file": "/home/lian/MYMUDUOnew/MYMUDUO/src/EventLoopThreadPool.cc"
+},
+{
+  "directory": "/home/lian/MYMUDUOnew/MYMUDUO/build",
+  "command": "/usr/bin/g++  -DLSX_muduo_EXPORTS -I/home/lian/MYMUDUOnew/MYMUDUO/include   -g -std=c++11 -g -fPIC   -o CMakeFiles/LSX_muduo.dir/src/InetAddress.o -c /home/lian/MYMUDUOnew/MYMUDUO/src/InetAddress.cc",
+  "file": "/home/lian/MYMUDUOnew/MYMUDUO/src/InetAddress.cc"
+},
+{
+  "directory": "/home/lian/MYMUDUOnew/MYMUDUO/build",
+  "command": "/usr/bin/g++  -DLSX_muduo_EXPORTS -I/home/lian/MYMUDUOnew/MYMUDUO/include   -g -std=c++11 -g -fPIC   -o CMakeFiles/LSX_muduo.dir/src/Logger.o -c /home/lian/MYMUDUOnew/MYMUDUO/src/Logger.cc",
+  "file": "/home/lian/MYMUDUOnew/MYMUDUO/src/Logger.cc"
+},
+{
+  "directory": "/home/lian/MYMUDUOnew/MYMUDUO/build",
+  "command": "/usr/bin/g++  -DLSX_muduo_EXPORTS -I/home/lian/MYMUDUOnew/MYMUDUO/include   -g -std=c++11 -g -fPIC   -o CMakeFiles/LSX_muduo.dir/src/Poller.o -c /home/lian/MYMUDUOnew/MYMUDUO/src/Poller.cc",
+  "file": "/home/lian/MYMUDUOnew/MYMUDUO/src/Poller.cc"
+},
+{
+  "directory": "/home/lian/MYMUDUOnew/MYMUDUO/build",
+  "command": "/usr/bin/g++  -DLSX_muduo_EXPORTS -I/home/lian/MYMUDUOnew/MYMUDUO/include   -g -std=c++11 -g -fPIC   -o CMakeFiles/LSX_muduo.dir/src/Socket.o -c /home/lian/MYMUDUOnew/MYMUDUO/src/Socket.cc",
+  "file": "/home/lian/MYMUDUOnew/MYMUDUO/src/Socket.cc"
+},
+{
+  "directory": "/home/lian/MYMUDUOnew/MYMUDUO/build",
+  "command": "/usr/bin/g++  -DLSX_muduo_EXPORTS -I/home/lian/MYMUDUOnew/MYMUDUO/include   -g -std=c++11 -g -fPIC   -o CMakeFiles/LSX_muduo.dir/src/TcpConnection.o -c /home/lian/MYMUDUOnew/MYMUDUO/src/TcpConnection.cc",
+  "file": "/home/lian/MYMUDUOnew/MYMUDUO/src/TcpConnection.cc"
+},
+{
+  "directory": "/home/lian/MYMUDUOnew/MYMUDUO/build",
+  "command": "/usr/bin/g++  -DLSX_muduo_EXPORTS -I/home/lian/MYMUDUOnew/MYMUDUO/include   -g -std=c++11 -g -fPIC   -o CMakeFiles/LSX_muduo.dir/src/TcpServer.o -c /home/lian/MYMUDUOnew/MYMUDUO/src/TcpServer.cc",
+  "file": "/home/lian/MYMUDUOnew/MYMUDUO/src/TcpServer.cc"
+},
+{
+  "directory": "/home/lian/MYMUDUOnew/MYMUDUO/build",
+  "command": "/usr/bin/g++  -DLSX_muduo_EXPORTS -I/home/lian/MYMUDUOnew/MYMUDUO/include   -g -std=c++11 -g -fPIC   -o CMakeFiles/LSX_muduo.dir/src/Thread.o -c /home/lian/MYMUDUOnew/MYMUDUO/src/Thread.cc",
+  "file": "/home/lian/MYMUDUOnew/MYMUDUO/src/Thread.cc"
+},
+{
+  "directory": "/home/lian/MYMUDUOnew/MYMUDUO/build",
+  "command": "/usr/bin/g++  -DLSX_muduo_EXPORTS -I/home/lian/MYMUDUOnew/MYMUDUO/include   -g -std=c++11 -g -fPIC   -o CMakeFiles/LSX_muduo.dir/src/Timestamp.o -c /home/lian/MYMUDUOnew/MYMUDUO/src/Timestamp.cc",
+  "file": "/home/lian/MYMUDUOnew/MYMUDUO/src/Timestamp.cc"
+}
+]
